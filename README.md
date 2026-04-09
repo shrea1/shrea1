@@ -29,7 +29,7 @@
 
 ### 🌿 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,Node.js,php,c" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,php,c" />
 </p>
 
 ### 🍃 Database
