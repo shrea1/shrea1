@@ -45,19 +45,6 @@
 <p align="center">
   🎨 Canva | Adobe Photoshop
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrea1&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shrea1&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ## 🌈 Contribution Graph
@@ -67,6 +54,8 @@
 </p>
 
 ---
+
+
 
 ## 💌 Connect With Me
 
