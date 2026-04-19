@@ -50,9 +50,8 @@
 ## 🌈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrea1&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrea1&theme=dracula&hide_border=true&area=true&color=ff79c6" alt="Activity Graph" />
 </p>
-
 ---
 
 
